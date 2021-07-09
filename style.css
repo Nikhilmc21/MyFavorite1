@@ -1,0 +1,61 @@
+body {
+  text-align:center;
+  background-image:linear-gradient(#0FFFFF 100%, #FFFFFF 0%);
+    padding: 10px;
+    border: 100px;
+    border-style: 200px;
+    text-align: center;
+}
+
+h1{
+font-weight:bolder;
+}
+img {
+  height:200px;
+  width:300px;
+  border-radius:50px;
+}
+#Hobby{
+    font-family: 'Otomanopee One', sans-serif;
+}
+#beginningpara{
+    text-decoration-color: limegreen;
+}
+#link{
+    font-family: 'Oswald', sans-serif;
+    text-decoration-color: orange;
+    color:orange;
+}
+#menu {
+    position: fixed;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    background: aqua;
+    z-index: 10;
+}
+#mic{
+    height:100px;
+    width:100px;
+}
+}
+#name{
+    color:black;
+    font-size: 20px;
+    font-family: 'Otomanopee One', sans-serif;
+    
+}
+#hobbypic{
+    height: 200px;
+    width:400px;
+    border-radius: 100px;
+}
+img{
+    height:20px;
+    width:100px;
+}
+#head{
+   font-family: 'Paytone One', sans-serif;
+    font-weight: bolder;
+    font-size:50px;
+}
